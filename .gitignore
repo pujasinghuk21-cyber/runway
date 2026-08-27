@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules
+dist
+.vite
+
+# Throwaway verification scripts. The engine is checked by bundling a script
+# against it and running the numbers; those files are scratch, never history.
+probe.ts
+smoke.tsx
+/tmp
+
+# Local and editor
+*.local
+.env
+.env.*
+.DS_Store
+.idea
+.vscode
+*.log

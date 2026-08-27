@@ -1,0 +1,6 @@
+
+Fluent Emoji by Microsoft, MIT licence.
+https://github.com/microsoft/fluentui-emoji
+
+Vendored rather than pulled from a CDN so the site has no runtime
+dependency on anyone else's infrastructure.
